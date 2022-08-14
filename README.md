@@ -3,8 +3,6 @@
 ### My name is Igor and I junior frontend developer.
 ##### *I come from Russia, where bears ride bicycles.*
 
-![bears](./6NCaVkXKFgA.jpg)
-
 ##### I dream of becoming a professional in this field.
 ##### now I'm strengthening my basic knowledge, gradually mastering React.
 
