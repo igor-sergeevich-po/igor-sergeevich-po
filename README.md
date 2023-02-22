@@ -1,10 +1,10 @@
 ### Hi there 👋
 [My cv](https://igor-sergeevich-po.github.io/rsschool-cv/cv)
-### My name is Igor and I junior frontend developer.
-##### *I come from Russia, where bears ride bicycles.*
+### My name is Igor and I frontend developer.
+##### *I come from Russia, where bears ride a bicycles.*
 
-##### I dream of becoming a professional in this field.
-##### now I'm strengthening my basic knowledge, gradually mastering React.
+##### My dream is to become a professional in the field of web development and solve responsible issues in a large company.
+##### now I'm writing projects on react + @redux/toolkit and gradually diving into typesctipt
 
 <!--
 **igor-sergeevich-po/igor-sergeevich-po** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
