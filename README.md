@@ -1,5 +1,5 @@
 ### Hi there 👋
-[My cv](https://igor-sergeevich-po.github.io/rsschool-cv/cv)
+[My hh resume]([https://igor-sergeevich-po.github.io/rsschool-cv/cv](https://rostov.hh.ru/applicant/resumes/view?resume=f9964765ff047e7ebc0039ed1f48576d545664))
 ### My name is Igor and I frontend developer.
 ##### *I come from Russia, where bears ride a bicycles.*
 
