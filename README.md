@@ -1,10 +1,11 @@
-### Hi there 👋
+### Здравствуйте 👋
 [My hh resume](https://rostov.hh.ru/applicant/resumes/view?resume=f9964765ff047e7ebc0039ed1f48576d545664)
-### My name is Igor and I frontend developer.
-##### *I come from Russia, where bears ride a bicycles.*
+### Меня зовут Игорь и я фронтенд разработчик.
+##### Живу в городе Ростове-на-Дону.
 
-##### My dream is to become a professional in the field of web development and solve responsible issues in a large company.
-##### now I'm writing projects on react + @redux/toolkit and gradually diving into typesctipt
+#####  Сейчас я пишу проекты на react + redux и постепенно погружаюсь в typesctipt для того чтобы
+##### стать профессионалом в области веб-разработки и решать ответственные вопросы в крупной компании.
+
 
 <!--
 **igor-sergeevich-po/igor-sergeevich-po** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
