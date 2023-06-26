@@ -28,3 +28,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![codewars](https://www.codewars.com/users/igor-sergeevich/badges/large)](https://www.codewars.com/users/igor-sergeevich-po)
+
+Связаться со мной:<br>
+[![telegram](https://img.shields.io/badge/-telegram-003131?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/elDev161)
+[![email](https://img.shields.io/badge/-email-003131?style=for-the-badge&logo=email&logoColor=blue)](https://mail.yandex.ru/?uid=244243316#inbox)
