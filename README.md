@@ -1,23 +1,16 @@
-### Здравствуйте 👋
 [My hh resume](https://rostov.hh.ru/resume/ed437a84ff0be57a830039ed1f79756b666c58)
-### Меня зовут Игорь и я фронтенд разработчик.
-##### Живу в городе Ростове-на-Дону.
+<h2 align="center">
+Здравствуйте 👋<br>
+</h2>
+  <h4 align="center">
+Меня зовут Игорь и я фронтенд разработчик. <br>
+Живу в городе Ростове-на-Дону.<br>
+      </p>
+      <p align="center">
+Сейчас я пишу проекты на react + redux и постепенно погружаюсь в typesctipt для того чтобы
+стать профессионалом в области веб-разработки и решать ответственные вопросы в крупной компании.
+</p>
 
-#####  Сейчас я пишу проекты на react + redux и постепенно погружаюсь в typesctipt для того чтобы
-##### стать профессионалом в области веб-разработки и решать ответственные вопросы в крупной компании.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<!--
-**igor-sergeevich-po/igor-sergeevich-po** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![codewars](https://www.codewars.com/users/igor-sergeevich/badges/large)](https://www.codewars.com/users/igor-sergeevich-po)
