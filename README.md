@@ -31,4 +31,7 @@
 
 Связаться со мной:<br>
 [![telegram](https://img.shields.io/badge/-telegram-003131?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/elDev161)
-[![email](https://img.shields.io/badge/-email-003131?style=for-the-badge&logo=email&logoColor=blue)](https://mail.yandex.ru/?uid=244243316#inbox)
+<a href="mailto:79515076779@ya.ru&body=привет?subject=вопрос">
+![yandex](https://img.shields.io/badge/-@mail-003131?style=for-the-badge&logo=yandex&logoColor=blue)
+</a>
+
