@@ -13,16 +13,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-003131?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![React](https://img.shields.io/badge/-react-003131?style=for-the-badge&logo=react&logoColor=blue)
 ![Redux](https://img.shields.io/badge/-redux-003131?style=for-the-badge&logo=redux&logoColor=blue)
-![html5](https://img.shields.io/badge/-html5-003131?style=for-the-badge&logo=html5&logoColor=orange)
-![css3](https://img.shields.io/badge/-css3-003131?style=for-the-badge&logo=css3&logoColor=green)
-![scss](https://img.shields.io/badge/-scss-003131?style=for-the-badge&logo=scss&logoColor=purple)
+![html5](https://img.shields.io/badge/-html-003131?style=for-the-badge&logo=html5&logoColor=orange)
+![css3](https://img.shields.io/badge/-css-003131?style=for-the-badge&logo=css3&logoColor=green)
 ![bem](https://img.shields.io/badge/-bem-003131?style=for-the-badge&logo=bem&logoColor=green)
-![api](https://img.shields.io/badge/-api-003131?style=for-the-badge&logo=api&logoColor=green)
-![firebase](https://img.shields.io/badge/-firebase-003131?style=for-the-badge&logo=firebase&logoColor=green)
 ![git](https://img.shields.io/badge/-git-003131?style=for-the-badge&logo=git&logoColor=green)
-![axios](https://img.shields.io/badge/-axios-003131?style=for-the-badge&logo=axios&logoColor=green)
 ![figma](https://img.shields.io/badge/-figma-003131?style=for-the-badge&logo=figma&logoColor=green)
-![es6](https://img.shields.io/badge/-es6-003131?style=for-the-badge&logo=es6&logoColor=green)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
