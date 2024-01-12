@@ -7,7 +7,7 @@
 Живу в городе Ростове-на-Дону.<br>
       </p>
       <p align="center">
-Сейчас я пишу проекты на react + redux и постепенно погружаюсь в typesctipt.
+Сейчас ищу работу.
 </p>
     
 ![JavaScript](https://img.shields.io/badge/-JavaScript-003131?style=for-the-badge&logo=javascript&logoColor=yellow)
